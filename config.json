@@ -24,7 +24,7 @@
     "mrdata.usgs.gov"
   ],
   "title": "Minute 319/323 Environmental Flow Monitoring",
-  "subtitle": "Subtitle text goes here",
+  "subtitle": "Habitat restoration in the Colorado River Delta",
   "keepAppState": true,
   "logo": "https://lh3.googleusercontent.com/-wPjrb-tez5E/VEVwEoJAE0I/AAAAAAAAEr8/o_DPs0Al8dU/s50-no/ibwc.fw.png",
   "geometryService": "https://utility.arcgisonline.com/arcgis/rest/services/Geometry/GeometryServer",
@@ -488,7 +488,7 @@
     "url": "",
     "rules": []
   },
-  "logoLink": "http://www.usgs.gov",
+  "logoLink": "https://www.ibwc.gov/home.html",
   "dataSource": {
     "dataSources": {},
     "settings": {}
