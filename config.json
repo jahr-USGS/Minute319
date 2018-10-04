@@ -23,10 +23,10 @@
   "authorizedCrossOriginDomains": [
     "mrdata.usgs.gov"
   ],
-  "title": "Minute 319 ESRI Web Application Builder example",
+  "title": "Minute 319/323 Environmental Flow Monitoring",
   "subtitle": "Subtitle text goes here",
   "keepAppState": true,
-  "logo": "https://usgs.maps.arcgis.com/sharing/rest/content/items/c39fc066285441d5b4834a72aa36f342/data",
+  "logo": "https://lh3.googleusercontent.com/-wPjrb-tez5E/VEVwEoJAE0I/AAAAAAAAEr8/o_DPs0Al8dU/s50-no/ibwc.fw.png",
   "geometryService": "https://utility.arcgisonline.com/arcgis/rest/services/Geometry/GeometryServer",
   "links": [
     {
